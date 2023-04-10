@@ -42,6 +42,12 @@ header, footer {
     color: var(--primaryColor);
 }
 
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
 
 
 
