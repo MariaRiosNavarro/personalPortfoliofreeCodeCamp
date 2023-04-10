@@ -10,8 +10,8 @@
     --secundaryColor:rgb(11, 65, 62);
     --accentColor:#f4f900;
     --accentColor2:#410B0E;
-    --backgroundColor:#d3dad5;
-    --backgroundColor2:#74AEB1;
+    --backgroundColor:#486a6c;
+    --backgroundColor2:#74aeb1;
     --textColor:#57411B;
 }
 
@@ -146,7 +146,9 @@ body, html{
     color: var(--accentColor2);
 }
 
-
+#projects, .more {
+    background-color: var(--backgroundColor);
+}
 
 
 
