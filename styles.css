@@ -32,7 +32,8 @@ header, footer {
     width: 100%;
 }
 
-.logo {
+.logo.header, .logo.footer{
+    
     height: 80%;
 }
 
