@@ -23,14 +23,20 @@ The navbar should always be at the top of the viewport*/
 
 header {
     position: fixed;
+}
+
+header, footer {
     background-color: var(--secundaryColor);
     color: var(--primaryColor);
     height: 70px;
+    width: 100%;
 }
 
 .logo {
-    height: 50%;
+    height: 80%;
 }
+
+
 
 
 
