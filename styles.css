@@ -8,8 +8,8 @@
 :root {
     --primaryColor:#EAA020;
     --secundaryColor:rgb(11, 65, 62);
-    --accentColor:#157876;
-    --accentColor2:#f3cd0dbe;
+    --accentColor:#f4f900;
+    --accentColor2:#410B0E;
     --backgroundColor:#d3dad5;
     --backgroundColor2:#74AEB1;
     --textColor:#57411B;
@@ -97,12 +97,17 @@ body, html{
 }
 
 .title {
-    color: var(--primaryColor);
+    color: var(--secundaryColor);
+    font-size: 40px;
+    font-weight: bolder;
 
 }
 
 .subtitle {
-    color: var(--secundaryColor);
+    color: var(--accentColor);
+    font-weight: bold;
+    font-size: 30px;
+
 }
 
 
