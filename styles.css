@@ -75,9 +75,6 @@ li {
 }
 
 
-
-
-
 /*main style*/
 
 body, html{
@@ -97,6 +94,15 @@ body, html{
 
 .center {
     padding-top: 35vh;
+}
+
+.title {
+    color: var(--primaryColor);
+
+}
+
+.subtitle {
+    color: var(--secundaryColor);
 }
 
 
