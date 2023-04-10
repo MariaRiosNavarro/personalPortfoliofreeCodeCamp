@@ -159,6 +159,9 @@ body, html{
 }
 .more {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px ;
 }
 .more a{
     text-decoration: none;
