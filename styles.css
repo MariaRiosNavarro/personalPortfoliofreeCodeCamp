@@ -37,7 +37,10 @@ header, footer {
     height: 80%;
 }
 
-.nav-link, 
+.nav-link, .footer-link {
+    text-decoration: none;
+    color: var(--primaryColor);
+}
 
 
 
