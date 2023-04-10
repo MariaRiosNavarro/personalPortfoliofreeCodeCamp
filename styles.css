@@ -25,6 +25,11 @@ header {
     position: fixed;
     background-color: var(--secundaryColor);
     color: var(--primaryColor);
+    height: 70px;
+}
+
+.logo {
+    height: 50%;
 }
 
 
