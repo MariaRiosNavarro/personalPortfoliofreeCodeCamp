@@ -59,23 +59,19 @@ li {
 .link, #title {
     font-weight: bold;
     font-size: 25px;
+    margin-left: 1rem;
 }
 
 .logo{
-    position: relative;
-    left: -9%;
+ margin-left: 0.5rem;
 }
 
-.logo.footer{
-    margin-left: ;
-}
 
-.link{
-    margin-left: ;
+.separation-header {
+    width: 100%;
 }
-
-#title {
-    
+.separation-footer {
+    width: 100%;
 }
 
 
