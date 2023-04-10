@@ -21,13 +21,27 @@ have at least one media query
 The height of the welcome section should be equal to the height of the viewport
 The navbar should always be at the top of the viewport*/
 
-.welcome-section {
-    height: 100 vh;
-}
+
 
 #navbar{
     position: fixed;
+    background-color: var(--secundaryColor);
+    color: var(--primaryColor);
 }
+
+.welcome-section {
+    height: 100 vh;
+    background-color: var(--backgroundColor2);
+}
+
+h1 {
+    color: var(--primaryColor);
+}
+.welcome-section p{
+    color: var(--secundaryColor);
+}
+
+
 
 @media (prefers-color-sheme: dark){
     :root{
