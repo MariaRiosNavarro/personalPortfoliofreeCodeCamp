@@ -7,8 +7,10 @@
 
 :root {
     --primaryColor:#EAA020;
-    --secundaryColor:#1f6aea;
-    --accentColor:#30c3cd;
+    --secundaryColor:#16c0b550;
+    --accentColor:#157876;
+    --accentColor2:#f4f42ee4;
     --backgroundColor:#d3dad5;
+    --backgroundColor2:#74AEB1;
     --textColor:#57411B;
 }
