@@ -226,9 +226,15 @@ body, html{
 }
 
 
+/*Style legals and privacy policy*/
 
-
-
+.legals{
+    height: 100vh;
+    background-color: var(--backgroundColor2);
+    position: relative;
+    top: 70px;
+    padding-top: 200px;
+}
 
 
 
