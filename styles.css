@@ -237,7 +237,18 @@ body, html{
     padding-right: 70px;
 }
 
+span {
+    font-size: 25px;
+    font-weight: bold;
+}
 
+hr {
+    padding: 30px;
+}
+.legals p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 
 
 
