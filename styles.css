@@ -108,7 +108,8 @@ body, html{
 .subtitle {
     color: var(--accentColor);
     font-weight: bold;
-    font-size: 30px;
+    font-size: var(--middleFontSize);
+    font-style: italic;
 
 }
 
