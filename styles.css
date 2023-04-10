@@ -54,6 +54,10 @@ li {
     margin-right: 1rem;
 }
 
+.link, #title {
+    font-weight: bold;
+    font-size: 25px;
+}
 
 /*main style*/
 
