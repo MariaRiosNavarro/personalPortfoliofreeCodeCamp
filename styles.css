@@ -56,8 +56,7 @@ li {
 
 /*main style*/
 
-#welcome-section{
-    height: 100 vh;
+.welcome{
     background-color: var(--backgroundColor2);
 }
 
