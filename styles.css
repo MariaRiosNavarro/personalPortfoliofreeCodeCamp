@@ -25,6 +25,10 @@ The navbar should always be at the top of the viewport*/
     height: 100 vh;
 }
 
+#navbar{
+    position: fixed;
+}
+
 @media (prefers-color-sheme: dark){
     :root{
         --secundaryColor:#16c0b5;
