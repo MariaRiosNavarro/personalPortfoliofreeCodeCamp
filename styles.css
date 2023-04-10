@@ -181,12 +181,16 @@ body, html{
 #contact {
     display: flex;
     justify-content: center;
+    flex-direction: column;
+    align-items: center;
     background-color: var(--backgroundColor2);
     color: var(--secundaryColor);
     font-size: 30px;
     font-weight: bold;
     padding: 75px;
 }
+
+
 
 
 
