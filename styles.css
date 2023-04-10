@@ -121,7 +121,7 @@ body, html{
     gap: 10px;
 }
 
-.project-tile{
+.project-tile, .project-link {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -130,8 +130,9 @@ body, html{
 
 .project-image {
     width:50%;
-    
+
 }
+
 
 
 
