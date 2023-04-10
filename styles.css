@@ -13,7 +13,8 @@
     --backgroundColor:#486a6c;
     --backgroundColor2:#74aeb1;
     --textColor:#57411B;
-    --bigFontSize: 50px;
+    --bigFontSize: 80px;
+    --middleFontSize: 50px;
 }
 
 /*Header and footer style*/
@@ -75,9 +76,6 @@ li {
     width: 100%;
 }
 
-h1 {
-    font-size: var(--bigFontSize);
-}
 
 /*main style*/
 
@@ -102,7 +100,7 @@ body, html{
 
 .title {
     color: var(--secundaryColor);
-    font-size: 40px;
+    font-size: var(--bigFontSize);
     font-weight: bolder;
 
 }
