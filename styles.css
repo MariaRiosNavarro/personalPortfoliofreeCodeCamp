@@ -56,17 +56,11 @@ li {
 
 /*main style*/
 
-welcome-section {
+#welcome-section{
     height: 100 vh;
     background-color: var(--backgroundColor2);
 }
 
-h1 {
-    color: var(--primaryColor);
-}
-.welcome-section p{
-    color: var(--secundaryColor);
-}
 
 
 
