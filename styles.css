@@ -189,10 +189,18 @@ body, html{
     align-items: center;
     background-color: var(--backgroundColor2);
     color: var(--secundaryColor);
-    font-size: 30px;
     font-weight: bold;
     padding: 75px;
 }
+
+.btn {
+    text-decoration: none;
+    color: var(--accentColor);
+    font-size: var(--middleFontSize);
+    font-weight: bold;
+    padding: 20px;
+}
+
 
 
 
