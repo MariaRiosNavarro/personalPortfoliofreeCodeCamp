@@ -12,7 +12,7 @@ html {
 :root {
     --primaryColor:#EAA020;
     --secundaryColor:rgb(11, 65, 62);
-    --accentColor:#f4f900;
+    --accentColor:#0011f9; /* old: #f4f900*/
     --accentColor2:#410B0E;
     --backgroundColor:#486a6c;
     --backgroundColor2:#74aeb1;
@@ -210,7 +210,6 @@ body, html{
 
 }
 
-.contact-link{}
 
 .contact-section-header h2{
     font-size: var(--middleFontSize);
@@ -220,6 +219,10 @@ body, html{
 .contact-section-header p{
     font-size: 30px;
     
+}
+
+.contact-links{
+    padding-top: 30px;
 }
 
 
