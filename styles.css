@@ -67,8 +67,9 @@ body, html{
     height: 100vh;
 }
 
-.welcome{
-    background-color: var(--backgroundColor2);
+#welcome-section .welcome {
+    margin-top: 40vh; 
+    text-align: center;
 }
 
 
