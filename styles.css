@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 :root {
     --primaryColor:#EAA020;
     --secundaryColor:rgb(11, 65, 62);
@@ -189,6 +193,8 @@ body, html{
     font-weight: bold;
     padding: 75px;
 }
+
+
 
 
 
