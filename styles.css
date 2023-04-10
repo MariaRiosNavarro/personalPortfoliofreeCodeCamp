@@ -118,7 +118,7 @@ body, html{
     justify-items: center;
     grid-template-rows: 1fr 1fr;
     grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+    gap: 30px;
 }
 
 #projects{
