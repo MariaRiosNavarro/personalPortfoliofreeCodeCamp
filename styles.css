@@ -201,6 +201,18 @@ body, html{
     padding: 20px;
 }
 
+.contact-section-header{
+    text-align: center;
+}
+
+.contact-section-header h2{
+    font-size: var(--middleFontSize);
+}
+
+.contact-section-header p{
+    font-size: 30px;
+}
+
 
 
 
