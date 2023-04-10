@@ -173,6 +173,15 @@ body, html{
     text-align: center;
 }
 
+/*Style Contact section */
+
+#contact {
+    display: flex;
+    justify-content: center;
+    background-color: var(--backgroundColor2);
+    height: 80%vh;
+}
+
 
 
 
