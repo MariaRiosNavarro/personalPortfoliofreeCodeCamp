@@ -110,7 +110,7 @@ body, html{
 
 }
 
-/*Styles Projects Section*/
+/*Styles Projects Section and More Section*/
 
 .grid{
     display: grid;
@@ -122,9 +122,8 @@ body, html{
 }
 
 #projects{
-    padding-top: 70px;
-    padding-bottom: 70px;
-    width: 90%;
+    padding: 70px;
+    width: 100%;
     margin: auto;
 }
 
