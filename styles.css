@@ -13,6 +13,7 @@
     --backgroundColor:#486a6c;
     --backgroundColor2:#74aeb1;
     --textColor:#57411B;
+    --bigFontSize: 50px;
 }
 
 /*Header and footer style*/
@@ -74,6 +75,9 @@ li {
     width: 100%;
 }
 
+h1 {
+    font-size: var(--bigFontSize);
+}
 
 /*main style*/
 
@@ -179,7 +183,10 @@ body, html{
     display: flex;
     justify-content: center;
     background-color: var(--backgroundColor2);
-    height: 80%vh;
+    color: var(--secundaryColor);
+    font-size: 30px;
+    font-weight: bold;
+    padding: 75px;
 }
 
 
