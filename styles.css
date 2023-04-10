@@ -191,6 +191,7 @@ body, html{
     color: var(--secundaryColor);
     font-weight: bold;
     padding: 75px;
+    height: 90vh;
 }
 
 .btn {
@@ -201,16 +202,24 @@ body, html{
     padding: 20px;
 }
 
+
+
 .contact-section-header{
     text-align: center;
+
+
 }
+
+.contact-link{}
 
 .contact-section-header h2{
     font-size: var(--middleFontSize);
+    
 }
 
 .contact-section-header p{
     font-size: 30px;
+    
 }
 
 
