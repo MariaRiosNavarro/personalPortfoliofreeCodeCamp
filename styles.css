@@ -7,7 +7,7 @@
 
 :root {
     --primaryColor:#EAA020;
-    --secundaryColor:#16c0b550;
+    --secundaryColor:hsla(176, 79%, 42%, 0.314);
     --accentColor:#157876;
     --accentColor2:#f3cd0dbe;
     --backgroundColor:#d3dad5;
