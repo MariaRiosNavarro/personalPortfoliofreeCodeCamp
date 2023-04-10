@@ -157,7 +157,9 @@ body, html{
 #projects, .more {
     background-color: var(--backgroundColor);
 }
-
+.more {
+    width: 100%;
+}
 .more a{
     text-decoration: none;
     font-size: 35px;
