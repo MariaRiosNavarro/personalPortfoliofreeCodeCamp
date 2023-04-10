@@ -121,6 +121,13 @@ body, html{
     gap: 10px;
 }
 
+#projects{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    width: 90%;
+    margin: auto;
+}
+
 .project-tile, .project-link {
     display: flex;
     flex-direction: column;
@@ -129,7 +136,7 @@ body, html{
 }
 
 .project-image {
-    width:50%;
+    width:75%;
 
 }
 
