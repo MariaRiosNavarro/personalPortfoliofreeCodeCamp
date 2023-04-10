@@ -34,6 +34,8 @@ header, footer {
     height: 80%;
 }
 
+
+
 .nav-link, .footer-link , .link{
     text-decoration: none;
     color: var(--primaryColor);
@@ -58,6 +60,27 @@ li {
     font-weight: bold;
     font-size: 25px;
 }
+
+.logo{
+    position: relative;
+    left: -9%;
+}
+
+.logo.footer{
+    margin-left: ;
+}
+
+.link{
+    margin-left: ;
+}
+
+#title {
+    
+}
+
+
+
+
 
 /*main style*/
 
